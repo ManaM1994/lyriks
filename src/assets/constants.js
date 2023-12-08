@@ -16,6 +16,18 @@ export const genres = [
   { title: 'House', value: 'HOUSE' },
   { title: 'K-Pop', value: 'K_POP' },
 ];
+ export const songs=[
+  {pic:"./images/song1.jpg" ,i:"1"},
+  {pic:"./images/song2.jpg"  ,i:"1"},
+  {pic:"./images/song3.jpg"  ,i:"1"},
+  {pic:"./images/song4.jpg"  ,i:"1"},
+  {pic:"./images/song5.jpg"  ,i:"1"},
+  {pic:"./images/song1.jpg" ,i:"1"},
+  {pic:"./images/song2.jpg" ,i:"1"},
+  {pic:"./images/song3.jpg" ,i:"1"},
+  {pic:"./images/song4.jpg" ,i:"1"},
+  {pic:"./images/song5.jpg" ,i:"1"},
+]
 
 export const links = [
   { name: 'Discover', to: '/', icon: HiOutlineHome },

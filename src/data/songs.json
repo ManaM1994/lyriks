@@ -1,0 +1,16 @@
+{
+    "songs":[
+        {"pic":"../images/song1.jpg"},
+        {"pic":"../images/song2.jpg"},
+        {"pic":"../images/song3.jpg"},
+        {"pic":"../images/song4.jpg"},
+        {"pic":"../images/song5.jpg"},
+        {"pic":"../images/song1.jpg"},
+        {"pic":"../images/song2.jpg"},
+        {"pic":"../images/song3.jpg"},
+        {"pic":"../images/song4.jpg"},
+        {"pic":"../images/song5.jpg"},
+    ]
+
+}
+    
